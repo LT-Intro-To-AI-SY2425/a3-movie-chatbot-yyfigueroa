@@ -62,6 +62,17 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
         ],
     ),
     (
+        "The Final Destination", 
+        "David R. Ellis",
+        2009
+        [
+            "Bobby Campo",
+            "Santel VanSanten",
+            "Krista Allen",
+            "Nick Zano",
+        ],
+    ),
+    (
         "the godfather",
         "francis ford coppola",
         1972,
